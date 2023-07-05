@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-79d255b3","path":"/RE/%E7%99%BE%E5%BA%A6/bd20230307.html","title":"","lang":"en-US","frontmatter":{},"headers":[{"level":2,"title":"银行排队","slug":"银行排队","link":"#银行排队","children":[]},{"level":2,"title":"魔法师","slug":"魔法师","link":"#魔法师","children":[]}],"git":{},"filePathRelative":"RE/百度/bd20230307.md"}');export{e as data};

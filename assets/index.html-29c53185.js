@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-2d0a3ac3","path":"/RE/","title":"必读","lang":"en-US","frontmatter":{},"headers":[{"level":2,"title":"1.做题建议","slug":"_1-做题建议","link":"#_1-做题建议","children":[]}],"git":{},"filePathRelative":"RE/README.md"}');export{e as data};
