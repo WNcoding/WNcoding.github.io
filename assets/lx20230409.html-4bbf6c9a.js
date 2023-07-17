@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-1ab20047","path":"/RE/%E8%81%94%E6%83%B3/lx20230409.html","title":"","lang":"en-US","frontmatter":{},"headers":[{"level":2,"title":"库存管理系统","slug":"库存管理系统","link":"#库存管理系统","children":[]},{"level":2,"title":"抢红包","slug":"抢红包","link":"#抢红包","children":[]}],"git":{},"filePathRelative":"RE/联想/lx20230409.md"}');export{e as data};

@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-271ae812","path":"/%E7%AC%94%E8%AF%95%E7%9C%9F%E9%A2%98/1.html","title":"","lang":"en-US","frontmatter":{},"headers":[],"git":{},"filePathRelative":"笔试真题/1.md"}');export{t as data};

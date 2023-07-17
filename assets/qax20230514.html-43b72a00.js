@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-78a265ae","path":"/RE/%E5%A5%87%E5%AE%89%E4%BF%A1/qax20230514.html","title":"奇安信0514笔试","lang":"en-US","frontmatter":{},"headers":[{"level":2,"title":"反色画框","slug":"反色画框","link":"#反色画框","children":[]},{"level":2,"title":"最长坚持时间","slug":"最长坚持时间","link":"#最长坚持时间","children":[]}],"git":{},"filePathRelative":"RE/奇安信/qax20230514.md"}');export{e as data};
